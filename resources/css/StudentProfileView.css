@@ -1,0 +1,66 @@
+.profile-container {
+  max-width: 900px;
+  margin: 3rem auto;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(48, 48, 48, 0.45);
+  margin-top: 7rem;
+}
+
+.section-title {
+  color: #9a2a26;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.section {
+  margin-bottom: 2rem;
+}
+
+.section h3 {
+  color: #9a2a26;
+  margin-bottom: 1rem;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-group label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+
+.skills-container {
+  margin-bottom: 1rem;
+}
+
+.skill-chip {
+  background: #eee;
+  padding: 0.4rem 0.75rem;
+  border-radius: 20px;
+  display: inline-block;
+  margin: 0.3rem;
+  font-size: 13px;
+  cursor: pointer;
+  color: #333;
+}
+
+.skill-chip:hover {
+  background: #f8d1ce;
+  color: #9a2a26;
+}
+
+
+.skill-chip {
+  background: #eee;
+  padding: 0.4rem 0.75rem;
+  border-radius: 20px;
+  display: inline-block;
+  margin: 0.3rem;
+  font-size: 13px;
+}
